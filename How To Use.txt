@@ -1,3 +1,1 @@
-1. เปิด TokenStealer.py ขึ้นมาโดยจะกดโดยตรงเลยก็ได้ หรือ จะ ใช้วิธีการพิมพ์คำสั่ง python TokenStealer.py ก็ได้
-
-By GhostsGhoul
+Open The File And Enjoy : )
